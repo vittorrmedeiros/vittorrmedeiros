@@ -1,8 +1,10 @@
 *Hello, world! Welcome to my Github profile.
 * My name is Vittor Rescarolli de Medeiros and my nickname is "Beterraba"!
 
-I'm currently working on Ydeal Tecnologia, in Tijucas - SC 
+* I'm currently working on Ydeal Tecnologia, in Tijucas - SC 
 
-I'm learning JavaScript and PHP
+* I'm learning JavaScript
 
-You can talk to me on the Discord: Beterraba#0505 / Or you can send me an E-mail on: vittorrmedeiros@icloud.com
+* You can talk to me by:  / Or you can send me an E-mail on: vittorrmedeiros@icloud.com
+
+(https://user-images.githubusercontent.com/89883547/213500904-fd15710a-d244-4fc6-9128-b0c6d1fced50.png) Discord: Beterraba#0505![dc]
