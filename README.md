@@ -7,4 +7,4 @@
 
 * You can talk to me by:  / Or you can send me an E-mail on: vittorrmedeiros@icloud.com
 
-<img src="https://user-images.githubusercontent.com/89883547/213500904-fd15710a-d244-4fc6-9128-b0c6d1fced50.png" width="40" height="40"/> Discord: Beterraba#0505![dc]
+<img src="https://user-images.githubusercontent.com/89883547/213500904-fd15710a-d244-4fc6-9128-b0c6d1fced50.png" width="20" height="20"/> Discord: Beterraba#0505![dc]
