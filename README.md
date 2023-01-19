@@ -1,13 +1,22 @@
-- 🖖🏼 Hello, world! Welcome to my Github profile.
-- 🤘🏼 My name is Vittor Rescarolli de Medeiros and my nickname is "Beterraba"!
-- 💻 I'm currently working on Ydeal Tecnologia, in Tijucas - SC 
-- ♟ I'm learning JavaScript
-- 🐱‍🐉 You can talk to me by:
+## Hello, world! Welcome to my Github profile 🖖🏼
 
-<img src= "https://user-images.githubusercontent.com/89883547/213500904-fd15710a-d244-4fc6-9128-b0c6d1fced50.png" width= "20" height= "20"/> Discord: Beterraba#0505
+💀 My name is Vittor Rescarolli de Medeiros and my nickname is "Beterraba"
 
-<img src= "https://user-images.githubusercontent.com/89883547/213504596-916bef5e-2bcb-4ff9-9ae8-82f2b602c0f5.png" widht= "20" height= "20"/> You can send me an E-mail too, on: vittorrmedeiros@icloud.com
+💻 I'm currently working on Ydeal Tecnologia
 
-- 🐱‍👓 And you can follow me on <a href="https://twitter.com/beterraba___" style="text-decoration: none;">Twitter</a>, or <a href="https://instagram.com/beterraba._" target="_blank" target="_blank">Instagram</a> (both tbh, lol)
+## Contact:
 
-- 🐱‍💻 Thats pretty much all, feel free to check out my repositories, and other works
+<a href="https://instagram.com/beterraba._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+## I'm currently working with:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
+
+<details>
+<summary>GitHub Stats</summary>
+<a href="https://github.com/vittorrmedeiros">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittorrmedeiros&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vittorrmedeiros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</details>
+
+<img width="100%" src="https://camo.githubusercontent.com/405ec87f325f46fb3b98dff86e47a3122360532127d9ea40aa9d78ce107b9d6a/68747470733a2f2f692e696d6775722e636f6d2f4c65756836776d2e676966"/>
