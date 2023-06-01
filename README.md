@@ -2,17 +2,17 @@
 
 💀 My name is Vittor Rescarolli de Medeiros and my nickname is "Beterraba" 
 
-💻 I'm currently working on Yde
-
-<br>
-
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yjw3xugqlujzyouovwj72nrxpm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31yjw3xugqlujzyouovwj72nrxpm&redirect=true)
+💻 I'm currently working on Ydeal
 
 <br>
 
 ## I'm currently working with:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
+
+<br>
+
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yjw3xugqlujzyouovwj72nrxpm&cover_image=trjustify-content="center"ue&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31yjw3xugqlujzyouovwj72nrxpm&redirect=true)
 
 <br>
 
