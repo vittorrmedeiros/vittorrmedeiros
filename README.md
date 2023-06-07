@@ -6,6 +6,10 @@
 
 <br>
 
+<a href="https://wakatime.com/@7b34298d-8eb9-4cec-96f8-9a2c809bbd44"><img src="https://wakatime.com/badge/user/7b34298d-8eb9-4cec-96f8-9a2c809bbd44.svg" alt="Total time coded since Jan 20 2023" /></a>
+
+<br>
+
 ## I'm currently working with:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
