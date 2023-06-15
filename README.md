@@ -6,6 +6,10 @@
 
 <br>
 
+<a href="https://wakatime.com/@7b34298d-8eb9-4cec-96f8-9a2c809bbd44"><img src="https://wakatime.com/badge/user/7b34298d-8eb9-4cec-96f8-9a2c809bbd44.svg" alt="Total time coded since Jan 20 2023" /></a>
+
+<br>
+
 ## I'm currently working with:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
@@ -13,16 +17,17 @@
 <br>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yjw3xugqlujzyouovwj72nrxpm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31yjw3xugqlujzyouovwj72nrxpm&redirect=true)
-<br>
 
-## GitHub Stats
+<br>
+ 
+<!-- ## GitHub Stats
 
 <a href="https://github.com/vittorrmedeiros">
 <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=vittorrmedeiros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittorrmedeiros&layout=compact&langs_count=7&theme=dark"/>
 
 <br>
-
+ -->
 ![snake gif](https://github.com/vittorrmedeiros/vittorrmedeiros/blob/output/github-contribution-grid-snake.svg)
 
 <br>  
