@@ -2,7 +2,7 @@
 
 💀 My name is Vittor Rescarolli de Medeiros and my nickname is "Beterraba" 
 
-💻 I'm currently working on Ydeal Tecnologia
+💻 I'm currently working on Ydeal
 
 <br>
 
