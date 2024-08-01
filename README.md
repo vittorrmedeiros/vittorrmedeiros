@@ -18,6 +18,12 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yjw3xugqlujzyouovwj72nrxpm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=dedede)](https://github.com/kittinan/spotify-github-profile)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raissa005/raissa005/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raissa005/raissa005/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/raissa005/raissa005/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!-- <br>
  
 ## GitHub Stats
@@ -27,8 +33,6 @@
 <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittorrmedeiros&layout=compact&langs_count=7&theme=dark"/>
 
 <br>
-
-![snake gif](https://github.com/vittorrmedeiros/vittorrmedeiros/blob/output/github-contribution-grid-snake.svg)
 
 <br>  
   
