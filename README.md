@@ -16,7 +16,7 @@
 
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yjw3xugqlujzyouovwj72nrxpm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=dedede)](https://github.com/kittinan/spotify-github-profile)
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yjw3xugqlujzyouovwj72nrxpm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=dedede)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raissa005/raissa005/output/github-contribution-grid-snake-dark.svg">
